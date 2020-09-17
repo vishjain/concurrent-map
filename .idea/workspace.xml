@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4644cc30-f187-42f8-bbe9-5287b22ba789" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hZuoFCnwim6lWZ5XUKkS0OfbWl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/vishjain/concurrent-map/cmd/setup-map">
+    <configuration name="go build github.com/vishjain/concurrent-map/cmd/setup-map" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="concurrent-map" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/setup-map/main.go" />
+      <package value="github.com/vishjain/concurrent-map/cmd/setup-map" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkGetKeys in github.com/vishjain/concurrent-map/cmap (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrent-map" />
+      <working_directory value="$PROJECT_DIR$/cmap" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="github.com/vishjain/concurrent-map/cmap" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QBenchmarkGetKeys\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkGetKeys in github.com/vishjain/concurrent-map/cmap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrent-map" />
+      <working_directory value="$PROJECT_DIR$/cmap" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="github.com/vishjain/concurrent-map/cmap" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QBenchmarkGetKeys\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkInsert in github.com/vishjain/concurrent-map/cmap (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrent-map" />
+      <working_directory value="$PROJECT_DIR$/cmap" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="github.com/vishjain/concurrent-map/cmap" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QBenchmarkInsert\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkInsertConcurrentInsert in github.com/vishjain/concurrent-map/cmap (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrent-map" />
+      <working_directory value="$PROJECT_DIR$/cmap" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="github.com/vishjain/concurrent-map/cmap" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QBenchmarkInsertConcurrentInsert\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/vishjain/concurrent-map/cmd/setup-map" />
+        <item itemvalue="Go Test.BenchmarkGetKeys in github.com/vishjain/concurrent-map/cmap (1)" />
+        <item itemvalue="Go Test.BenchmarkGetKeys in github.com/vishjain/concurrent-map/cmap" />
+        <item itemvalue="Go Test.BenchmarkInsertConcurrentInsert in github.com/vishjain/concurrent-map/cmap (3)" />
+        <item itemvalue="Go Test.BenchmarkInsert in github.com/vishjain/concurrent-map/cmap (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2063" y="674" key="EnvironmentVariablesDialog" timestamp="1600235013152">
+      <screen x="-3440" y="23" width="3440" height="1417" />
+    </state>
+    <state x="-2063" y="674" key="EnvironmentVariablesDialog/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600235013152" />
+    <state width="2390" height="370" key="GridCell.Tab.0.bottom" timestamp="1600329577840">
+      <screen x="-3440" y="23" width="3440" height="1376" />
+    </state>
+    <state width="1876" height="323" key="GridCell.Tab.0.bottom/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600296371696" />
+    <state width="2390" height="370" key="GridCell.Tab.0.bottom/0.23.1280.777/-3440.23.3440.1376@-3440.23.3440.1376" timestamp="1600329577840" />
+    <state width="2390" height="370" key="GridCell.Tab.0.center" timestamp="1600329577839">
+      <screen x="-3440" y="23" width="3440" height="1376" />
+    </state>
+    <state width="1876" height="323" key="GridCell.Tab.0.center/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600296371694" />
+    <state width="2390" height="370" key="GridCell.Tab.0.center/0.23.1280.777/-3440.23.3440.1376@-3440.23.3440.1376" timestamp="1600329577839" />
+    <state width="2390" height="370" key="GridCell.Tab.0.left" timestamp="1600329577838">
+      <screen x="-3440" y="23" width="3440" height="1376" />
+    </state>
+    <state width="1876" height="323" key="GridCell.Tab.0.left/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600296371693" />
+    <state width="2390" height="370" key="GridCell.Tab.0.left/0.23.1280.777/-3440.23.3440.1376@-3440.23.3440.1376" timestamp="1600329577838" />
+    <state width="2390" height="370" key="GridCell.Tab.0.right" timestamp="1600329577839">
+      <screen x="-3440" y="23" width="3440" height="1376" />
+    </state>
+    <state width="1876" height="323" key="GridCell.Tab.0.right/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600296371695" />
+    <state width="2390" height="370" key="GridCell.Tab.0.right/0.23.1280.777/-3440.23.3440.1376@-3440.23.3440.1376" timestamp="1600329577839" />
+    <state width="1876" height="398" key="GridCell.Tab.1.bottom" timestamp="1600293654339">
+      <screen x="-3440" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1876" height="398" key="GridCell.Tab.1.bottom/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600293654339" />
+    <state width="1876" height="398" key="GridCell.Tab.1.center" timestamp="1600293654338">
+      <screen x="-3440" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1876" height="398" key="GridCell.Tab.1.center/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600293654338" />
+    <state width="1876" height="398" key="GridCell.Tab.1.left" timestamp="1600293654338">
+      <screen x="-3440" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1876" height="398" key="GridCell.Tab.1.left/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600293654338" />
+    <state width="1876" height="398" key="GridCell.Tab.1.right" timestamp="1600293654338">
+      <screen x="-3440" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1876" height="398" key="GridCell.Tab.1.right/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600293654338" />
+    <state x="-3077" y="439" key="SettingsEditor" timestamp="1600235088182">
+      <screen x="-3440" y="23" width="3440" height="1417" />
+    </state>
+    <state x="-3077" y="439" key="SettingsEditor/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600235088182" />
+    <state x="-2043" y="475" width="670" height="657" key="search.everywhere.popup" timestamp="1600328877916">
+      <screen x="-3440" y="23" width="3440" height="1376" />
+    </state>
+    <state x="-2043" y="488" width="670" height="676" key="search.everywhere.popup/0.23.1280.736/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1600238230453" />
+    <state x="-2043" y="475" width="670" height="657" key="search.everywhere.popup/0.23.1280.777/-3440.23.3440.1376@-3440.23.3440.1376" timestamp="1600328877916" />
+  </component>
+</project>

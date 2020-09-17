@@ -4,12 +4,12 @@ Golang's in-built map go has poor support for concurrent operations.
 Moreover, many advanced operations are not thread-safe and/or
 performant. This version allows for concurrent writes and reads, while
 minimizing lock contention. Ideal if you want a quick in-memory datastore (cache, 
-key-value store, etc). Also includes custom & useful operations. 
+key-value store, etc). Also includes custom & useful operations. Basic unit-tests
+and benchmarks are given. 
 Some operations supported include: 
 
-<code>
 // MSet takes all data in Golang built-in map and places into the thread-safe map.
-
+ 
 // Set takes a key and value and inserts into the thread-safe map. 
 
 // Upsert - Insert or Update according to the callback function passed in. 
@@ -37,5 +37,4 @@ according to a callback.
 // Iterator returns an iterator (in the form of a buffered Golang channel) so the user can retrieve all
 keys and values. 
 
-// Merge merges two thread-safe maps. 
-</code> 
+// Merge merges two thread-safe maps in a parallelized fashion. 
